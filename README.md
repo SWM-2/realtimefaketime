@@ -27,4 +27,4 @@ This project is ideal for demos, testing, or creative applications where you wan
 ### `/` – Main Page  
 Serves a minimal HTML page containing an `<img>` element that streams the fake time image:
 
-![alt text](https://time.elonsf.art/image.jpg)
+![alt text](http://time.elonsf.art/image.jpg)
