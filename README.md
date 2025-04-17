@@ -1,6 +1,4 @@
 # realtimefaketime
-Capucchine Assasino
-
 Switch to the best git provider. It's free   https://git.elonsf.art
 
 http://time.elonsf.art
