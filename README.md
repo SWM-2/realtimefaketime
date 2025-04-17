@@ -29,3 +29,5 @@ Serves a minimal HTML page containing an `<img>` element that streams the fake t
 
 ```html
 <img src="/image.jpg" alt="Realtime Fake Time Stream">
+
+![alt text](https://time.elonsf.art/image.jpg)
